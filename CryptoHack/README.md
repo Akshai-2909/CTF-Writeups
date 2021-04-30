@@ -1,1 +1,1 @@
-### CryptoHack is one of the wonderful platform for learning Crypto challenges. Here the Writeups for those challenge!
+### CryptoHack is one of the wonderful platform for learning Crypto challenges. You can find the writeup for those challenges. This writeups is underdevelopment.
