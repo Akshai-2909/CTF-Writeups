@@ -3,6 +3,10 @@
 ```
 picoCTF{next_time_I'll_try_2_rounds_of_rot13_ZNMldSDw}
 ```
+Mind Your P's and Q's
+```
+picoCTF{sma11_N_n0_g0od_05012767}
+```
 ### Easy1
    We need to solve this with Vigenere Cipher decoder
 ```
@@ -23,3 +27,4 @@ picoCTF{crossingtherubiconzaqjsscr}
 ```
 PICOCTF{M0RS3C0D31SFUN3902019519}
 ```
+
