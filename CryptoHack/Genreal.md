@@ -1,5 +1,7 @@
 # General
-### Encoding
+## Encoding
+
+### ASCII
  Refer conversion.py
 ```
  crypto{ASCII_pr1nt4bl3}
@@ -18,5 +20,19 @@ Refer conversion.py
 ### Bytes and Big Integers
 ```
  crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}
+```
+
+## Mathematics
+### Greatest Common Divisor
+```
+1512
+```
+### Modular Arithmetic 2
+```
+1
+```
+### Modular Inverting
+```
+9
 ```
 
