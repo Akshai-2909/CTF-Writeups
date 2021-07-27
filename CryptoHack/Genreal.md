@@ -21,6 +21,16 @@ Refer conversion.py
 ```
  crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}
 ```
+## XOR
+### XOR Starter
+```
+crypto{aloha}
+```
+
+### XOR Properties
+```
+crypto{x0r_i5_ass0c1at1v3}
+```
 
 ## Mathematics
 ### Greatest Common Divisor
